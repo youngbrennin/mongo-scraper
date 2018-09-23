@@ -1,2 +1,2 @@
 # mongo-scraper
-Scraping news from other sites and putting htem on mine
+Scraping news from other sites and putting them online
